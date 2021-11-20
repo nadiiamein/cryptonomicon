@@ -36,7 +36,7 @@ AddButton
          default: false
      }
  },
-//da
+//beschreibung was macht  component
  emits: {
      "add-ticker": value => typeof value === "string" && value.length > 0
      },
